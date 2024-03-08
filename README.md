@@ -1,4 +1,3 @@
-//![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 ![MasterHead](![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">"Fueled by unwavering passion, the gaming developer brings virtual worlds to life one line of code at a time."</h3>
