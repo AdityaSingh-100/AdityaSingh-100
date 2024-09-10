@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">"Fueled by unwavering passion, the gaming developer brings virtual worlds to life one line of code at a time."</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/1ylOHgLDKw7eD8WgoB/giphy.gif?cid=ecf05e47iq9cz9x1higrluo6ro0nrw1emucpsmavmj581c46&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/606508274848406759/">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh-100&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh-100" /> </p>
 
