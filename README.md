@@ -1,4 +1,5 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
+ <!--
  ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
@@ -36,3 +37,73 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasingh-100&show_icons=true&locale=en" alt="adityasingh-100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh-100&" alt="adityasingh-100" /></p>
+-->
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<h1 align="center">Hi 👋, I'm Aditya Singh</h1>  
+<h3 align="center">"Fueling innovation with code while building the future, one project at a time."</h3>  
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+---
+
+### 🚀 Want to know what I'm currently working on?  
+> 🌱 Diving deep into **Data Structures and Algorithms** and mastering **Web Development**.  
+> 🔥 Check out my projects and progress on [GitHub](https://github.com/adityasingh-100).  
+
+---
+
+### 🌟 About Me  
+
+- 🎓 **3rd-Year Student** at Poornima Institute of Engineering and Technology (PIET).  
+- 🌱 **Currently Learning:** React, C++, and enhancing my DSA problem-solving skills.  
+- 💡 **Ask Me About:** Python, Django, and building innovative solutions with technology.  
+- 📬 **Reach Me At:** [adityasingh902491@gmail.com](mailto:adityasingh902491@gmail.com).  
+- ⚡ **Fun Fact:** "Coding Algorithms by Day, Gaming by Night 🌙🎮."  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-singh-61142823b" target="blank">
+    <img align="center" src="https://media.giphy.com/media/5VOnP7wcTVp3L4b8Nm/giphy.gif" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://www.hackerrank.com/@adityasingh90241" target="blank">
+    <img align="center" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="HackerRank" height="50" width="50" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="C" width="50" height="50" />
+  <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" alt="C++" width="50" height="50" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Python" width="50" height="50" />
+  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" alt="Django" width="50" height="50" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="HTML" width="50" height="50" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="50" height="50" />
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="MySQL" width="50" height="50" />
+  <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Unity" width="50" height="50" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasingh-100&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasingh-100&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh-100&" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔥 A Glimpse into My Work Ethic  
+![Work](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+
+<sub>Infographics generated using [lowlighter/metrics](https://github.com/lowlighter/metrics).</sub>
