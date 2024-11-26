@@ -17,8 +17,8 @@
 
 
 - 🎓 **3rd-Year Student** at Poornima Institute of Engineering and Technology (PIET).  
-- 🌱 **Currently Learning:** React, C++, and enhancing my DSA problem-solving skills.  
-- 💡 **Ask Me About:** Python, Django, and building innovative solutions with technology.  
+- 🌱 **Currently Learning:** Enhancing my DSA problem-solving skills and Learning Web Development.  
+- 💡 **Ask Me About:**C,C++, Python, Django, and building innovative solutions with technology.  
 - 📬 **Reach Me At:** [adityasingh902491@gmail.com](mailto:adityasingh902491@gmail.com).  
 - ⚡ **Fun Fact:** "Coding Algorithms by Day, Gaming by Night 🌙🎮."  
 
