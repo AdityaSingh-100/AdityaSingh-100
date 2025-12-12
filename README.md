@@ -76,14 +76,13 @@ const aditya = {
 ### 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/AdityaSingh-100/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaSingh-100&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh-100&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-</a>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSingh-100&theme=dark&hide_border=true" alt="GitHub Streak"/>
+[![Aditya Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSingh-100&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSingh-100&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh-100&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
