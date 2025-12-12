@@ -15,7 +15,15 @@ Currently pursuing **B.Tech in Computer Science & Data Science** at PIET also wh
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasingh100)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AdityaSingh-100)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasingh902491@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityasingh100)
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -49,8 +57,8 @@ Currently pursuing **B.Tech in Computer Science & Data Science** at PIET also wh
 
 ---
 
-## 🌐 Connect With Me
 
+## 📊 GitHub Stats
 <div align="center">
 
 <table>
@@ -82,16 +90,7 @@ Currently pursuing **B.Tech in Computer Science & Data Science** at PIET also wh
 
 </div>
 
----
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasingh100)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AdityaSingh-100)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasingh902491@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityasingh100)
-
----
 
 <div align="center">
 
