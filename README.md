@@ -1,119 +1,107 @@
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>  
-<h3 align="center">Full Stack Developer | Problem Solver | Building Scalable Solutions 🚀</h3>
+# Hi there, I'm Aditya 👋
+
+## About Me
+
+I'm a passionate **Full Stack Developer** with a strong interest in web development, problem-solving, and building scalable solutions. I've built modern web applications using the MERN stack, worked with AI integrations, and consistently grind DSA problems to sharpen my algorithmic thinking.
+
+Currently pursuing **B.Tech in Computer Science & Data Science** at PIET also while actively contributing to innovative projects.
+
+- 🔭 Currently working on **AI-driven web applications** with Next.js, React.js, and Node.js
+- 🌱 Learning **Advanced Web Development & grinding DSA**
+- 👯 Looking to collaborate on **open-source web development & AI projects**
+- 💬 Ask me about **MERN Stack, Full-Stack Development, or DSA**
+- 📫 Reach me at: **adityasingh902491@gmail.com**
+- ⚡ Fun Fact: **Coffee → Code → Repeat!** ☕
+
+---
+
+## 📊 GitHub Stats
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Others:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js;DSA+%26+Problem+Solving+%E2%9C%A8" alt="Typing SVG" />
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityasingh-100&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/adityasingh-100?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AdityaSingh-100&theme=dark)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AdityaSingh-100&type=languages&theme=dark)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AdityaSingh-100&type=contributions&theme=dark)
+
+</td>
+<td width="50%">
+
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AdityaSingh-100&type=top-repos&theme=dark)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/1ylOHgLDKw7eD8WgoB/giphy.gif?cid=ecf05e47iq9cz9x1higrluo6ro0nrw1emucpsmavmj581c46&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-top: -20px;">
+## 🌐 Connect With Me
 
-### 👨‍💻 About Me
-
-```typescript
-const aditya = {
-    location: "Jaipur, India 📍",
-    education: "B.Tech CS & DS @ PIET",
-    cgpa: "8.5/10 🎓",
-    role: "Full Stack Developer",
-    experience: ["MERN Stack Intern", "Django Developer Intern"],
-    focus: ["Web Development", "AI Integration", "Problem Solving"],
-    email: "adityasingh902491@gmail.com"
-};
-```
-
-- 🔭 Building **AI-driven web applications** with modern tech stack
-- 🌱 Currently learning **Web Development & DSA**
-- ⚡ **Fun Fact:** Coffee → Code → Repeat! ☕
-
-<br clear="right"/>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/adityasingh100" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/AdityaSingh-100" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="mailto:adityasingh902491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://twitter.com/adityasingh100" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts" />
-</p>
-
-#### Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
-</p>
-
-#### Backend & Database
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres" />
-</p>
-
-#### Tools & Others
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,prisma,supabase" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Aditya Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSingh-100&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSingh-100&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh-100&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-### 📈 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AdityaSingh-100?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/AdityaSingh-100)
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasingh100)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AdityaSingh-100)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasingh902491@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityasingh100)
 
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### 💖 Show some ⭐️ if you like my projects!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20biggest%20risk%20is%20not%20taking%20any%20risk&author=Mark%20Zuckerberg)
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaSingh-100&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
-*Quotes change dynamically - refresh to see more inspiring words from tech visionaries*
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 <sub>Made with ❤️ by Aditya Singh</sub>
 
