@@ -10,7 +10,7 @@ Currently pursuing **B.Tech in Computer Science & Data Science** at PIET also wh
 - 🌱 Learning **Advanced Web Development & grinding DSA**
 - 👯 Looking to collaborate on **open-source web development & AI projects**
 - 💬 Ask me about **MERN Stack, Full-Stack Development, or DSA**
-- 📫 Reach me at: **adityasingh902491@gmail.com**
+- 📫 Reach me at: **workwithaditya2025@gmail.com**
 - ⚡ Fun Fact: **Coffee → Code → Repeat!** ☕
 
 ---
